@@ -1,14 +1,14 @@
 # 👋 ¡Hola, soy @Deux-EZ! 🇨🇴✨
 
 Soy un apasionado de la tecnología 💻 y las soluciones 💡. Me encanta enfrentar nuevos desafíos 🚀 y explorar herramientas y lenguajes 🛠️ que potencien mi desarrollo profesional y personal. Siempre mejorando con cada proyecto o idea a desarrollar, aplicando
-constantemente nuevos conocimientos.
+constantemente nuevos conocimientos. Actualmente interesado en el desarrollo de herramientas mediante el prótocolo MCP para la integración con la IA.
 
 ## 👨‍💻 Sobre Mí
 
 -   **Tecnología & Soluciones:** 🔧 Me fascina aprovechar la tecnología para crear soluciones innovadoras y eficientes.
 -   **Videojuegos:** 🎮 Disfruto explorando nuevos títulos, mecánicas y tendencias. Enamorado de los JRPG en especial la saga *Persona* 🎭 es mi favorita.
 -   **Música:** 🎸 El rock latino es una de mis grandes pasiones y me inspira diariamente 🤘.
--   **Cultura:** 📚 Soy un ávido lector de libros y novelas latinoamericanas 🌎.
+-   **Cultura:** 📚 Soy un ávido lector de libros y novelas latinoamericanas 🌎. Enamorado de la novela **La Tregua**
 
 ## 🚀 Mi Stack Tecnológico
 
@@ -33,6 +33,7 @@ constantemente nuevos conocimientos.
 -   **Contenedores:** 📦 Docker para portabilidad y escalabilidad
 -   **Automatización:** 🤖 Flujos de trabajo inteligentes con n8n
 -   **IA:** ✨ Implementación de soluciones inteligentes
+-   **MCP** Implementación de protócolo MCP a tráves de Python y su sdk.
 
 ## 🤝 Conecta Conmigo
 
