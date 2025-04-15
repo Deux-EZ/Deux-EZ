@@ -23,8 +23,31 @@ constantemente nuevos conocimientos. Actualmente interesado en el desarrollo de 
 ![n8n](https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligencia%20Artificial-8A2BE2?style=for-the-badge)
 
-**Detalles de tecnologías:**  
-🐍 Python | ☁️ AWS | 🐳 Docker | #️⃣ C# | ☕ Java | 🗄️ SQL | 🐘 PostgreSQL | 🐬 MySQL | ⚡ n8n | 🧠 IA
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
 ## 🎯 Proyectos e Intereses
 
@@ -40,3 +63,5 @@ constantemente nuevos conocimientos. Actualmente interesado en el desarrollo de 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santia%20Gonzalez-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santia-gonzalez/)
 
 ¡Gracias por visitar mi perfil! 😊
+
+<img src="https://raw.githubusercontent.com/Deux-EZ/Deux-EZ/output/snake.svg" alt="Snake animation" />
